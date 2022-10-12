@@ -1,1 +1,1 @@
-# libft project for 42 Kocaeli
+# My libft project for 42 Kocaeli
